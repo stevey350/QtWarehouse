@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/main.png</file>
+        <file>images/add.png</file>
+        <file>images/clean.png</file>
+        <file>images/debug.jpg</file>
+        <file>images/delete.png</file>
+        <file>images/down.png</file>
+        <file>images/downLoad.png</file>
+        <file>images/downloadPic.png</file>
+        <file>images/firewareUpdate.jpg</file>
+        <file>images/ic_launcher_wallpaper.png</file>
+        <file>images/off.ico</file>
+        <file>images/ok.png</file>
+        <file>images/on.ico</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/send.png</file>
+        <file>images/setting.png</file>
+        <file>images/up.png</file>
+        <file>images/update.png</file>
+    </qresource>
+</RCC>
